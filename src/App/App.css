@@ -1,0 +1,9 @@
+.video-element {
+  width: 50%;
+  background-color: #000;
+  margin: 5px;
+}
+
+.flex-row {
+  display: flex;
+}
